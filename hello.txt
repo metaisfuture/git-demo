@@ -19,3 +19,6 @@ hello atguigu,hello git! hot-fix test
 
 拉取后修改再push.
 令狐冲
+
+
+令狐冲克隆后再推送到github
