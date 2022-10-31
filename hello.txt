@@ -16,3 +16,5 @@ hello atguigu,hello git!
 hello atguigu,hello git! master test
 hello atguigu,hello git! hot-fix test
 在github上修改,测试拉取.
+
+拉取后修改再push.
