@@ -24,3 +24,5 @@ hello atguigu,hello git! hot-fix test
 令狐冲克隆后再推送到github
 东方不败修改代码
 辟邪剑谱果然厉害
+
+测试gitee刷新拉取
